@@ -8,8 +8,8 @@ header{
     background-color: black;
     display: flex;
     justify-content: space-between;
-    margin: -1;
-    border: none;
+    margin: -1px;
+    border: 0px;
 }
 h1{
     color: #0088cc;
@@ -45,7 +45,7 @@ span{
     height: 686px;
     background-color: red;
     text-align: center;
-    margin: -1;
+    margin: -1px;
 }
 form{
     background-color: aqua;
